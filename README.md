@@ -1,2 +1,2 @@
-# SeleniumTestNG
-Selenium + TestNg Demo.
+# SeleniumDemo
+Selenium + TestNg java code demo.

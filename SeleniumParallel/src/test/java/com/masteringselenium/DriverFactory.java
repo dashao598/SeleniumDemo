@@ -31,4 +31,9 @@ public class DriverFactory {
         driverThread.get().quitDriver();
     }
 
+    @AfterMethod
+    public static void clearCookies() throws Exception{
+        getDriver().manage().deleteAllCookies();
+    }
+
 }

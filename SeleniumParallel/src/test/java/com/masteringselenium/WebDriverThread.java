@@ -41,8 +41,8 @@ public class WebDriverThread {
 
     public void quitDriver(){
         if(null !=webDriver){
-           // webDriver.quit();
-            webDriver.close();
+            webDriver.quit();
+           // webDriver.close();
             webDriver = null;
         }
     }

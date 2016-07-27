@@ -35,7 +35,7 @@ public class DriverFactory {
         return driverThread.get().getDriver();
     }
 
-//    @AfterSuite
+//    @AfterMethod
 //    public static void quitDriver() throws Exception {
 //        driverThread.get().quitDriver();
 //    }

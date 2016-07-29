@@ -11,10 +11,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-SeleniumParallel/.idea
 SeleniumParallel/target/
 SeleniumParallel/mastering-selenium-testng.iml
 
-SeleniumTestNG/.idea
 SeleniumTestNG/target/
 SeleniumTestNG/mastering-selenium-testng.iml
+
+.idea/
+SeleniumParallel/mastering-selenium-testng (1).iml
+SeleniumTestNG/mastering-selenium-testng (2).iml
